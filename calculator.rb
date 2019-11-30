@@ -1,1 +1,2 @@
-first_number = "Hi"
+first_number = 2.0 
+second_number = 3.5 
